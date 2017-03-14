@@ -1,0 +1,23 @@
+{
+  "name": "@markonis/mock",
+  "version": "0.1.0",
+  "description": "A simple mock utility for use in unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mock",
+    "test"
+  ],
+  "author": "Marko Pavlovic",
+  "license": "MIT",
+  "dependencies": {
+    "@markonis/bundle": "0.0.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
+}
